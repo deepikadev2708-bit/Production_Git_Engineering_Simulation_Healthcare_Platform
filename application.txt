@@ -43,3 +43,6 @@ Appointment Notifications
 - Notification status can be recorded.
 --------------------------------------------------------------------- G
 
+Appointment Status
+- Appointments can have a defined lifecycle status.
+- Appointment status changes can be recorded.
