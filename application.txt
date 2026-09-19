@@ -22,3 +22,8 @@ Appointment Scheduling
 - Patients can request appointments with healthcare providers.
 - Appointment requests contain provider and appointment time information.
 --------------------------------------------------------------------- C
+
+Appointment History
+- Patients can view previous appointments.
+- Completed appointment details can be reviewed.
+--------------------------------------------------------------------- D
