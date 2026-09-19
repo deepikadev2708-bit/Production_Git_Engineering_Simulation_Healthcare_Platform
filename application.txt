@@ -63,5 +63,10 @@ Appointment History Details
 - Completed appointment details can be reviewed with additional history information.
 
 ---------------------------------------------------------------------------------- I
+Appointment Cancellation
 
+- Appointment cancellation must transition to the approved cancellation status.
 
+- Cancellation status changes must be recorded for audit purposes.
+
+-------------------------------------------------------------------------- M
