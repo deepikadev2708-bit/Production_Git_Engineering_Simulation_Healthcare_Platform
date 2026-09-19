@@ -38,3 +38,8 @@ Audit Management
 - Administrative actions can be reviewed for audit purposes.
 --------------------------------------------------------------------- F
 
+Appointment Notifications
+- Patients can receive appointment notifications.
+- Notification status can be recorded.
+--------------------------------------------------------------------- G
+
