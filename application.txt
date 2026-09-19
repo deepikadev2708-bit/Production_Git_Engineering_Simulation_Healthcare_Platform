@@ -12,3 +12,8 @@ Clinical Access
 - Authorized clinical users can access patient information.
 - Access to patient information is controlled by authorization rules.
 --------------------------------------------------------------------- A
+
+Patient Registration
+- Patients can register with the healthcare platform.
+- Patient registration information is validated before being stored.
+--------------------------------------------------------------------- B
