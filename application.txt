@@ -44,8 +44,9 @@ Appointment Notifications
 --------------------------------------------------------------------- G
 
 Appointment Status
-- Appointments can have a defined lifecycle status.
-- Appointment status changes can be recorded.
+- Appointments must use approved lifecycle status values.
+- Appointment status changes must be recorded for audit purposes.
+- Patients can review appointment status history.
 
 --------------------------------------------------------------------- H
 Patient Data Protection
@@ -53,4 +54,3 @@ Patient Data Protection
 - Access to patient information must follow approved data-protection controls.
 
 -------------------------------------------------------------------- J
-
