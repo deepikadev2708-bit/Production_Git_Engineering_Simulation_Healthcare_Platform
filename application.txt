@@ -33,3 +33,8 @@ Clinical Access
 - Access is restricted according to assigned permissions.
 --------------------------------------------------------------------- E
 
+Audit Management
+- Patient information access can be recorded.
+- Administrative actions can be reviewed for audit purposes.
+--------------------------------------------------------------------- F
+
