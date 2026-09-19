@@ -54,3 +54,13 @@ Patient Data Protection
 - Access to patient information must follow approved data-protection controls.
 
 -------------------------------------------------------------------- J
+
+
+
+Appointment History Details
+- Patients can view detailed information for previous appointments.
+- Completed appointment details can be reviewed with additional history information.
+
+---------------------------------------------------------------------------------- I
+
+
