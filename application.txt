@@ -17,3 +17,8 @@ Patient Registration
 - Patients can register with the healthcare platform.
 - Patient registration information is validated before being stored.
 --------------------------------------------------------------------- B
+
+Appointment Scheduling
+- Patients can request appointments with healthcare providers.
+- Appointment requests contain provider and appointment time information.
+--------------------------------------------------------------------- C
