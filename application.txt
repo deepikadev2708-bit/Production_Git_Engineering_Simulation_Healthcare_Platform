@@ -48,9 +48,20 @@ Appointment Status
 - Appointment status changes must be recorded for audit purposes.
 - Patients can review appointment status history.
 
+
 --------------------------------------------------------------------- H
 Patient Data Protection
 - Patient information must be protected from unauthorized access.
 - Access to patient information must follow approved data-protection controls.
 
 -------------------------------------------------------------------- J
+
+
+
+Appointment History Details
+- Patients can view detailed information for previous appointments.
+- Completed appointment details can be reviewed with additional history information.
+
+---------------------------------------------------------------------------------- I
+
+
