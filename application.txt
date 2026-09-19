@@ -1,0 +1,14 @@
+Healthcare Platform
+********************
+Patient Management
+- Patient registration is available.
+- Patient demographic information can be maintained.
+
+Appointment Management
+- Patients can request appointments.
+- Appointment details can be recorded.
+
+Clinical Access
+- Authorized clinical users can access patient information.
+- Access to patient information is controlled by authorization rules.
+--------------------------------------------------------------------- A
