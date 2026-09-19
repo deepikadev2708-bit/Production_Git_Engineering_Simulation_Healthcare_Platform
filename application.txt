@@ -27,3 +27,9 @@ Appointment History
 - Patients can view previous appointments.
 - Completed appointment details can be reviewed.
 --------------------------------------------------------------------- D
+
+Clinical Access
+- Authorized clinical users can access required patient information.
+- Access is restricted according to assigned permissions.
+--------------------------------------------------------------------- E
+
